@@ -1,0 +1,22 @@
+body{
+   background-color: greenyellow;
+}
+.container{
+   background-color: whitesmoke;
+   margin-left: 200;
+   border-bottom-style:groove;
+   border-color: cyan;
+   
+}
+
+ .yazankullanici{
+    text-align: right;
+ } 
+
+ .mesaj{
+   width:700px; 
+   word-wrap:break-word;
+ }
+ .sayfasayisi{
+   text-align: right;
+ }
